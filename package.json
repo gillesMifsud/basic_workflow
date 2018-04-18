@@ -1,18 +1,14 @@
 {
-  "name": "foundation-sites-template",
+  "name": "basic-workflow",
   "version": "1.0.0",
-  "description": "Basic template for a new Foundation for Sites project.",
+  "description": "Basic front-end workflow with Foundation for Sites",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",
     "build": "gulp sass"
   },
-  "author": "ZURB <foundation@zurb.com>",
+  "author": "Gil MIFSUD",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zurb/foundation-sites/issues",
-    "email": "foundation@zurb.com"
-  },
   "dependencies": {
     "browser-sync": "^2.23.6",
     "foundation-sites": "~6.4.0",
@@ -28,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zurb/foundation-sites-template.git"
+    "url": "https://github.com/gillesMifsud/basic_workflow.git"
   },
   "private": true
 }
